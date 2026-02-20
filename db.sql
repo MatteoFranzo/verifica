@@ -1,0 +1,5 @@
+CREATE TABLE (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    utente VARCHAR(20),
+    categoria VARCHAR(100)
+)
